@@ -25,7 +25,7 @@ The function should return the corresponding value of the `BucketEnum`.
 ## Function Signature
 
 ```java
-static BucketEnum find_bucket_with_most_overlap(Size imageSize, BoundingBox boundingBox) 
+static BucketEnum findBucketWithMostOverlap(Size imageSize, BoundingBox boundingBox) 
 ```
 
 ## Input Parameters
